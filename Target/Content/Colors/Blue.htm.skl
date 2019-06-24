@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Colors.Blue" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p>砻קยด2ตว融</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/Caution.flsnp" />
+        <MadCap:snippetBlock src="../Resources/Snippets/Caution.flsnp" />
+        <MadCap:snippetBlock src="../Resources/Snippets/Caution.flsnp" />
+        <MadCap:snippetBlock src="../Resources/Snippets/Caution.flsnp" />
+        <MadCap:snippetBlock src="../Resources/Snippets/Caution.flsnp" />
+        <MadCap:snippetBlock src="../Resources/Snippets/Caution.flsnp" />
+        <MadCap:snippetBlock src="../Resources/Snippets/Caution.flsnp" />
+        <p>
+            <img src="../Resources/Images/blue-545049_960_720.png" class="colors" />
+        </p>
+    </body>
+</html>

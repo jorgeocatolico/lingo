@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Color Spectrum"
+    Link="/Content/Color Spectrum.htm" />
+  <TocEntry
+    Title="Blue"
+    Link="/Content/Colors/Blue.htm" />
+  <TocEntry
+    Title="Green"
+    Link="/Content/Colors/Green.htm" />
+  <TocEntry
+    Title="Orange"
+    Link="/Content/Colors/Orange.htm" />
+  <TocEntry
+    Title="Purple"
+    Link="/Content/Colors/Purple.htm" />
+  <TocEntry
+    Title="Red"
+    Link="/Content/Colors/Red.htm" />
+  <TocEntry
+    Title="Yellow"
+    Link="/Content/Colors/Yellow.htm" />
+</CatapultToc>

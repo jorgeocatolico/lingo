@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="181" MadCap:lastWidth="1164" xml:space="preserve">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="contentBody" class="off-canvas-main">
+            <MadCap:bodyProxy />
+            <div class="footer center">
+                <div class="HomeMasterPageFooter outer-row">
+                    <div><a href="../../Home.htm"><img src="../Images/COLORSwhite.png" /></a>
+                    </div>
+                    <div>
+                        <div class="footer-links" style="text-align: center;"><a href="../../D_More Information/PDF Downloads.htm">PDFs</a><a href="../../D_More Information/Tips.htm">Tips</a><a href="../../D_More Information/FAQs.htm">FAQs</a><a href="../../D_More Information/Company Information.htm">Company</a>
+                        </div>
+                        <p class="Copyright" style="text-align: center;">Copyright © <MadCap:variable name="General.Year" /> <MadCap:variable name="General.CompanyName" /></p>
+                    </div>
+                    <div class="footer-icons" style="text-align: center;">
+                        <img src="../Images/spec.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

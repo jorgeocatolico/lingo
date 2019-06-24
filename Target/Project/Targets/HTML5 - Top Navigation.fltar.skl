@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="MadCap HTML5 Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MoveOutputContentToRoot="false" SkinComponents="" EnableResponsiveOutput="true" MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp" ResultsPerPage="10" Skin="/Project/Skins/HTML5 - Top Navigation.flskn" ConditionTagExpression="" DefaultUrl="/Content/Home.htm" TargetLanguage="en-us,de_../../../My Translated Projects/PulseDemoColors.liprjf/PulseDemoColors.liprj" EnableFeedbackService="true" LiveHelpServer="http://pulsedemo.madcapsoftware.com/Pulse/" LiveHelpKey="pybs1-mnpda-5cfd9-26a34-442db-3eb34-3b8d6-00d7b" SyncLingoProject="false">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Destinations>
+        <Destination Link="/Project/Destinations/FTP.fldes" />
+    </Destinations>
+</CatapultTarget>
